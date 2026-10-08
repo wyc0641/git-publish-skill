@@ -1,0 +1,9 @@
+# 忽略源素材文件，只上传 Skill 本身
+*
+!.trae/
+!.trae/skills/
+!.trae/skills/git-publish/
+!.trae/skills/git-publish/**
+!README.md
+!LICENSE
+!.gitignore
